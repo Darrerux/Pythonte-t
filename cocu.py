@@ -1,4 +1,4 @@
-Google Classroom
+
 Classroom
 Python Programming Essentials Training
 November 27-December 8, 2023
@@ -6,11 +6,6 @@ Home
 Calendar
 Enrolled
 To-do
-P
-Python Programming Essentials Training
-November 27-December 8, 2023
-Archived classes
-Settings
 Day 3 Act 2
 #Ill update this as soon as Im free
 
@@ -72,34 +67,3 @@ if Accounting_incentive > 0:
 if HR_incentive > 0:
   print("HR Department is eligible for incentives")
 Ituralde_Darrel_day3_act2.py
-Displaying Ituralde_Darrel_day3_act2.py.
-Day 3 Act 2
-Daisy Jean Castillo
-•
-Nov 29, 2023
-100
-/100
-100 points out of possible 100
-Upload the "py" file here. (filename should be lastname_firstname_day3_act2.py
-
-Day 3 Act 2.png
-Image
-3 class comments
-
-Kristina CuarteroNov 29, 2023
-Submitted mam, thank you!
-
-Dr. Joy Kenneth BiasongNov 30, 2023
-Thanks po. submitted po.
-
-Ronualdo LirioNov 30, 2023
-Submitted na po, salamat po
-
-Add class comment…
-
-Your work
-Graded
-
-Ituralde_Darrel_day3_act2.py
-Text
-Private comments
